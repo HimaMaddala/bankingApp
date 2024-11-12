@@ -1,6 +1,6 @@
 # Bank Application
 
-# Console-based application for basic banking operations
+# Java Console-based application for basic banking operations
 - Features include:
   - User registration and login
   - Account opening, deposits, and withdrawals
